@@ -31,7 +31,7 @@ body div div ul{
     display: flex;
     align-content: center; 
     justify-content: center;
-    width: 100vw;
+    
 }
 body div div ul a{
     text-decoration: none;
@@ -130,7 +130,7 @@ body div div div h3{
 body div div .awoof li{
     margin-top: 10px;
     color: green;
-    font-size: 22px;
+    font-size: 23px;
     display: flex;
     align-items: center;
     justify-content: center;
