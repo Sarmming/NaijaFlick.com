@@ -135,6 +135,7 @@ body div div .awoof li{
     display: flex;
     align-items: center;
     justify-content: center;
+    padding: 5px;
 }
 body div div ul .awoof25000 img{
     width: 80px;
